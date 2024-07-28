@@ -22,7 +22,7 @@ Eventually this idea can be expanded on (creating content out of the top partici
 
 # Technical description: 
 
-It uses Unique Network to setup NFTs (mostly Native NFTs) for the project. Some of these will be made dynamic going forward (say the FIA changes their decision or applies a post race penalty). 
+It uses Unique Network to setup NFTs (mostly Native NFTs) for the project. Some of these will be made dynamic going forward (say the FIA changes their decision or applies a post race penalty). uses NFTs for Authentication. Also uses it for redemptions, game logic.
 
 # Tasklist:
 
